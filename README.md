@@ -31,6 +31,7 @@ gradle clean -DremoteDriverUrl=https://user1:1234@selenoid.autotests.cloud/wd/hu
 ### Allure отчет (команда в терминале Idea):
 ```bash
 allure serve build/allure-results
+```
 ### Анализ прохождения в Allure-reports:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/TestOpsresults.png">
 ```
