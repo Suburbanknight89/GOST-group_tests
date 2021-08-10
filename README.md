@@ -1,5 +1,8 @@
 # Тестирование страницы https://gost-group.ru/en/
 
+### Список автоматизированных и ручных тестов в AlluretestOps:
+<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/testOpstests.png">
+
 ### Открывается главная страница:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/Main%20page.png">
 
@@ -34,7 +37,7 @@ allure serve build/allure-results
 ```
 ### Анализ прохождения в Allure-reports:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/TestOpsresults.png">
-```
+
 ### Оповещение об окончании прогона тестов в телеграмм:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/telegram.JPG">
 
