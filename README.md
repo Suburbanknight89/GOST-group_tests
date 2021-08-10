@@ -1,7 +1,7 @@
 # Тестирование страницы https://gost-group.ru/en/
 
 ### Открывается главная страница:
-<img src = "https://github.com/Roman-1990/bip-test/blob/master/src/test/resources/img/homepage.png">
+<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/Main%20page.png">
 
 # USAGE examples
 
