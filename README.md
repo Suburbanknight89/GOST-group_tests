@@ -18,12 +18,12 @@
   <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/jenkins_sborka.png">
 
 
-Run tests with filled remote.properties:
+### Запуск тестов с заполненными local.properties (команда в терминале Idea):
 ```bash
 gradle clean test
 ```
 
-Run tests with not filled remote.properties:
+### Удаленный запуск тестов (команда в терминале Idea):
 ```bash
 gradle clean -DremoteDriverUrl=https://user1:1234@selenoid.autotests.cloud/wd/hub/ -DvideoStorage=https://selenoid.autotests.cloud/video/ -Dthreads=1 test
 ```
