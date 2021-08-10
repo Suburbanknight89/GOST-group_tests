@@ -1,10 +1,9 @@
 # Тестирование страницы https://gost-group.ru/en/
+<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/Main%20page.png">
+
 
 ### Список автоматизированных и ручных тестов в AlluretestOps:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/testOpstests.png">
-
-### Открывается главная страница:
-<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/Main%20page.png">
 
 ### Параметры (по умолчанию) для запуска через Jenkins:
 
