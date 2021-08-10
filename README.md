@@ -3,7 +3,7 @@
 ### Открывается главная страница:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/Main%20page.png">
 
-## Параметры (по умолчанию) для запуска через Jenkins:
+### Параметры (по умолчанию) для запуска через Jenkins:
 
 * browser (default chrome)
 * browserVersion (default 89.0)
@@ -13,6 +13,7 @@
 * videoStorage (url address where you should get video)
 * threads (number of threads)
 
+### Интсрукция для запуска тестов через Jenkins:
   <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/jenkins_sborka.png">
 
 
