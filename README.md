@@ -35,7 +35,7 @@ gradle clean -DremoteDriverUrl=https://user1:1234@selenoid.autotests.cloud/wd/hu
 allure serve build/allure-results
 ```
 ### Анализ прохождения тестов в Allure-reports:
-<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/TestOpsresults.png">
+<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/allureseults.png">
 
 ### Оповещение об окончании прогона тестов в телеграмм:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/telegram.JPG">
