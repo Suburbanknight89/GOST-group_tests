@@ -35,7 +35,7 @@ public class GeneratedTests extends TestBase {
     }
 
     @Test
-    @DisplayName("Тест выбор русской версии сайта")
+    @DisplayName("Тест выбор русскоязычной версии сайта")
     void testMobile() {
         step("Открытие ссылки 'https://gost-group.ru/en/'", () -> {
                 open(BASE_URL);

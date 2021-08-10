@@ -40,8 +40,8 @@ allure serve build/allure-results
 ### Оповещение об окончании прогона тестов в телеграмм:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/telegram.JPG">
 
-## Видео прохождения теста "3 Успешный поиск тура", взятое из среды выполнения (из Selenoid)
-<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/telegram.JPG">
+## Пример с видео о прохождении тест "выбор русскоязычной версии сайта"
+<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/1d16f720288d2729.gif">
 
 :heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
 :blue_heart: <a target="_blank" href="https://t.me/qa_automation">t.me/qa_automation</a>
