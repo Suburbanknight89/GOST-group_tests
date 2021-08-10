@@ -28,10 +28,15 @@ gradle clean test
 gradle clean -DremoteDriverUrl=https://user1:1234@selenoid.autotests.cloud/wd/hub/ -DvideoStorage=https://selenoid.autotests.cloud/video/ -Dthreads=1 test
 ```
 
-Serve report:
+### Allure отчет (команда в терминале Idea):
 ```bash
 allure serve build/allure-results
 ```
+### Оповещение об окончании прогона тестов в телеграмм:
+<img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/telegram.JPG">
+
+
+
 
 
 For further development there are some example tests in src/test/java/cloud.autotests/tests/demowebshop
