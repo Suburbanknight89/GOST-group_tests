@@ -3,17 +3,17 @@
 ### Открывается главная страница:
 <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/Main%20page.png">
 
-# USAGE examples
-
-### For run remote tests need fill remote.properties or to pass value:
+## Параметры (по умолчанию) для запуска через Jenkins:
 
 * browser (default chrome)
 * browserVersion (default 89.0)
 * browserSize (default 1920x1080)
 * browserMobileView (mobile device name, for example iPhone X)
-* remoteDriverUrl (url address from selenoid or grid)
+* remoteDriverUrl (selenoid.autotests.cloud)
 * videoStorage (url address where you should get video)
 * threads (number of threads)
+
+  <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/jenkins_sborka.png">
 
 
 Run tests with filled remote.properties:
