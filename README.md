@@ -15,7 +15,7 @@
 * videoStorage (url address where you should get video)
 * threads (number of threads)
 
-### Инструкция для запуска тестов через Jenkins [сборка](https://jenkins.autotests.cloud/job/GOST-group_tests.git/):
+### Инструкция для запуска тестов через [Jenkins](https://jenkins.autotests.cloud/job/GOST-group_tests.git/):
 
   <img src = "https://github.com/Suburbanknight89/GOST-group_tests/blob/master/src/test/resources/img/jenkins_sborka.png">
 
